@@ -5,6 +5,4 @@ function hifromnewfeature(){
     return "hello from newfeature branch"
 }
  
-function multiply(c,b){
-    return c*b;
-}
+ 
